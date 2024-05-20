@@ -3,7 +3,7 @@
 <h3>A creative Front-End Developer based in Tokyo, Japan</h3>
 
 - 🧑🏻‍🎓 A Le Wagon Web Development Bootcamp graduate
-- 🌱 I’m currently taking Harvard's CS50x and refining my JavaScript skills
+- 🌱 I’m currently taking Harvard's CS50x course and a 30 day Vanilla JS coding challenge
 - 📫 How to reach me: syrene.h.bartolome@icloud.com 
 
 <!--
