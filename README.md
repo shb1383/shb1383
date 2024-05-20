@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, I'm Syrene 👋
+
+A creative Front-End Developer based in Tokyo, Japan
+
+- 🔭 A Le Wagon Web Development Bootcamp graduate
+- 🌱 I’m currently taking Harvard's CS50x and refining my JavaScript skills
+- 📫 How to reach me: syrene.h.bartolome@icloud.com 
 
 <!--
 **shb1383/shb1383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
