@@ -11,7 +11,7 @@
 <a href = "https://www.ruby-lang.org/en/"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="45" height="45" /></a>
 <a href = "https://rubyonrails.org/"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="45" height="45" /></a>
 <a href = "https://www.w3schools.com/js/default.asp"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" /></a>
-<a href = "https://www.w3schools.com/html/default.asp/"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" /></a>
+<a href = "https://www.w3schools.com/html/default.asp"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" /></a>
 <a href = "https://www.w3schools.com/css/default.asp"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" /></a>
 <a href = "https://getbootstrap.com/"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" /></a>
 <a href = "https://www.postgresql.org/"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" /></a>
