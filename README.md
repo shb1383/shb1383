@@ -1,8 +1,8 @@
 ### <h1>Hello, I'm Syrene 👋</h1>
 
-<h3>An aesthetic Frontend Developer based in Tokyo, Japan</h3>
+<h3>A creative Frontend Developer based in Tokyo, Japan</h3>
 
-- 🎨 A Multimedia creative with experience in video production and web development
+- 🎨 A Multimedia Content Creator with experience in video production and web development
 - 🌱 I’m currently taking Harvard's CS50x course and a 30 day Vanilla JS coding challenge
 - 📫 How to reach me: syrene.h.bartolome@icloud.com 
 
