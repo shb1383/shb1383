@@ -16,6 +16,8 @@
 <a href = "https://www.w3schools.com/sass/default.php"><img src = "https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="45" height="45" /></a>
 <a href = "https://getbootstrap.com/"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" /></a>
 <a href = "https://www.postgresql.org/"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" /></a>
+<a href = "https://developer.apple.com/swift/"><img src = "https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="45" height="45" /></a>
+<a href = "https://developer.apple.com/xcode/"><img src = "https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="45" height="45" /></a>
 <a href = "https://www.figma.com/"><img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="45" height="45" /></a>
 <a href = "https://git-scm.com/"><img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" height="45" /></a>
 <a href = "https://www.heroku.com/"><img src = "https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="45" height="45" /></a>
