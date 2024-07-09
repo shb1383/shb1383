@@ -3,7 +3,7 @@
 <h3>A creative Frontend Developer based in Tokyo, Japan</h3>
 
 - 🎨 A Multimedia Content Creator with experience in web development, video production, and photography
-- 🌱 An aspiring Apple platform developer currently learning Swift, SwiftUI, SwiftData, and Xcode
+- 🌱 An aspiring Apple platform developer currently learning Swift and SwiftUI
 - 📫 How to reach me: syrene.h.bartolome@icloud.com 
 
 <h3>Languages:</h3>
