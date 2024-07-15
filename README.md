@@ -4,7 +4,7 @@
 
 - 🎨 A Multimedia Content Creator with experience in web development, video production, and photography
 - 🌱 An aspiring Apple platform developer currently learning Swift and SwiftUI
-- 📫 How to reach me: syrene.h.bartolome@icloud.com 
+- 📫 How to reach me: bartolome.syrenehaber@gmail.com
 
 <h3>Languages:</h3>
 <div class="inline">
