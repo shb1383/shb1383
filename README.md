@@ -15,6 +15,7 @@
 <a href = "https://getbootstrap.com/"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" /></a>
 <a href = "https://www.postgresql.org/"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" /></a>
 <a href = "https://developer.apple.com/swift/"><img src = "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/swift/swift-original.svg" width="45" height="45" /></a>
+<a href = "https://react.dev/"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" /></a>
 
 <h3>Tools:</h3>
 <a href = "https://developer.apple.com/xcode/"><img src = "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/xcode/xcode-original.svg" width="45" height="45" /></a>
