@@ -1,4 +1,4 @@
-### <h1>Hello, I'm Syrene 👋</h1>
+### <h2>Hello, I'm Syrene 👋</h2>
 
 - 🎨 Frontend Engineer with a background in Multimedia Production
 - 🌱 Aspiring OS developer currently learning Swift and SwiftUI
