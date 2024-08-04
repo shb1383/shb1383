@@ -4,18 +4,20 @@
 - 🌱 Aspiring OS developer currently learning Swift and SwiftUI
 - 📫 How to reach me: bartolome.syrenehaber@gmail.com
 
-<h3>Languages:</h3>
+<h3>Frontend:</h3>
 <div class="inline">
-<a href = "https://www.ruby-lang.org/en/"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="45" height="45" /></a>
-<a href = "https://rubyonrails.org/"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="45" height="45" /></a>
-<a href = "https://www.w3schools.com/js/default.asp"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" /></a>
 <a href = "https://www.w3schools.com/html/default.asp"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" /></a>
 <a href = "https://www.w3schools.com/css/default.asp"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" /></a>
+<a href = "https://www.w3schools.com/js/default.asp"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" /></a> 
 <a href = "https://getbootstrap.com/"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" /></a>
+
+<h3>Backend:</h3>
+<a href = "https://www.ruby-lang.org/en/"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="45" height="45" /></a>
+<a href = "https://rubyonrails.org/"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="45" height="45" /></a>
 <a href = "https://www.postgresql.org/"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" /></a>
 <a href = "https://developer.apple.com/swift/"><img src = "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/swift/swift-original.svg" width="45" height="45" /></a>
 
-<h3>Tools:</h3>
+<h3>Other:</h3>
 <a href = "https://git-scm.com/"><img src = "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" width="45" height="45" /></a>
 <a href = "https://www.figma.com/"><img src = "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" width="45" height="45" /></a>
 <a href = "https://www.heroku.com/"><img src = "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/heroku/heroku-original.svg" width="45" height="45" /></a>
