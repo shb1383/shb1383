@@ -2,7 +2,7 @@
 
 - 🎨 Frontend Engineer with a background in Multimedia Production
 - 🌱 Aspiring Apple developer currently learning Swift and SwiftUI
-- 📫 How to reach me: bartolome.syrenehaber@gmail.com
+- 📫 Send me a message: bartolome.syrenehaber@gmail.com
 
 <h3>Frontend:</h3>
 <div class="inline">
