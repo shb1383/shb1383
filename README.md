@@ -2,7 +2,8 @@
 
 - 🎨 Frontend Engineer with a background in Multimedia Production
 - 🌱 Aspiring Apple developer currently learning Swift and SwiftUI
-- 📫 Send me a message: bartolome.syrenehaber@gmail.com
+- 💼 View my portfolio: https://shb1383.github.io/
+- 📫 Message me: bartolome.syrenehaber@gmail.com
 
 <h3>Frontend:</h3>
 <div class="inline">
@@ -28,10 +29,6 @@
 <h3>Connect with me:</h3>
 <a href = "https://www.linkedin.com/in/syrene-h-bartolome/"><img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45" height="45" /></a>
 </div>
-
-<h3>Recent projects:</h3>
-<li><a href = "https://www.m-pulse.live/" style = "text-decoration:none" >MPulse</a></li>
-<li><a href = "https://tripl-komegi1215-c3f7a7733216.herokuapp.com/" style = "text-decoration:none" >Tripl</a></li>
 <!--
 **shb1383/shb1383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
