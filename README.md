@@ -1,6 +1,6 @@
 ### <h2>Hello, I'm Syrene 👋</h2>
 
-- 🎨 Frontend Engineer with a background in Multimedia Production
+- 🎨 Frontend Developer with a background in Multimedia Production
 - 🌱 Currently learning Swift and SwiftUI
 - 💼 View my portfolio: https://shb1383.github.io/
 - 📫 Message me: bartolome.syrenehaber@gmail.com
