@@ -24,6 +24,8 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" width="35" height="35" />
 <img src = "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/heroku/heroku-original.svg" width="35" height="35" />
 <img src = "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/xcode/xcode-original.svg" width="35" height="35" />
+<img src = "https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/markdown/markdown-original.svg" width="35" height="35" />
+</div>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-plain.svg" width="35" height="35" />
 </div>
 
