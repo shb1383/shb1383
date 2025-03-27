@@ -28,6 +28,7 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-plain.svg" width="35" height="35" />
 <img src = "https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/premierepro/premierepro-original.svg" width="35" height="35" />
 <img src = "https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/aftereffects/aftereffects-original.svg" width="35" height="35" />
+<img src = "https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/photoshop/photoshop-original.svg" width="35" height="35" />
 </div>
 
 <h4>Connect with me:</h4>
