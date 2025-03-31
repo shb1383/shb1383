@@ -1,7 +1,6 @@
 ### <h2>Hello, I'm Syrene 👋</h2>
 
 - 🎨 Solutions Engineer and Freelance Frontend Developer
-- 🌱 Currently learning Markdown and WordPress
 - 💼 View my portfolio: https://shb1383.github.io/
 - 📫 Message me: bartolome.syrenehaber@gmail.com
 
