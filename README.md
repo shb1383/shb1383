@@ -11,12 +11,12 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" width="35" height="35" />
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="35" height="35" />
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="35" height="35" />
+<img src = "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/swift/swift-original.svg" width="35" height="35" />
 
 <h4>Backend:</h4>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg" width="35" height="35" />
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="35" height="35" />
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35" height="35" />
-<img src = "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/swift/swift-original.svg" width="35" height="35" />
 
 <h4>Other:</h4>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" width="35" height="35" />
