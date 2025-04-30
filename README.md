@@ -12,7 +12,7 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="35" height="35" />
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="35" height="35" />
 <img src = "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/swift/swift-original.svg" width="35" height="35" />
-<img src = "https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/markdown/markdown-original.svg" width="35" height="35" />
+<img src = "https://www.markdownguide.org/assets/images/markdown-mark-white.svg" width="35" height="35" />
 
 <h4>Backend:</h4>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg" width="35" height="35" />
