@@ -25,9 +25,9 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/heroku/heroku-original.svg" width="35" height="35" />
 <img src = "https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-original.svg" width="35" height="35" />
 <br>
-<img src = "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/premiere-pro-40.svg" width="35" height="35" />
+<img src = "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/premiere-pro.svg" width="35" height="35" />
 <img src = "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/after-effects.svg" width="35" height="35" />
-<img src = "https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/photoshop/photoshop-original.svg" width="35" height="35" />
+<img src = "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop.svg" width="35" height="35" />
 <img src = "https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/illustrator/illustrator-plain.svg" width="35" height="35" />
 </div>
 
