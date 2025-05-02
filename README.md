@@ -28,7 +28,7 @@
 <img src = "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/premiere-pro.svg" width="35" height="35" />
 <img src = "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/after-effects.svg" width="35" height="35" />
 <img src = "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop.svg" width="35" height="35" />
-<img src = "https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/illustrator/illustrator-plain.svg" width="35" height="35" />
+<img src = "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator.svg" width="35" height="35" />
 </div>
 
 <h4>Connect with me:</h4>
