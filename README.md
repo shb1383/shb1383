@@ -28,7 +28,6 @@
 <img src = "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/premiere-pro.svg" width="35" height="35" />
 <img src = "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/after-effects.svg" width="35" height="35" />
 <img src = "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/audition.svg" width="35" height="35" />
-
 <img src = "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/lightroom.svg" width="35" height="35" />
 <img src = "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop.svg" width="35" height="35" />
 <img src = "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator.svg" width="35" height="35" />
